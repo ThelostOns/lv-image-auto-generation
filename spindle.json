@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "name": "Image Auto Generation",
+  "identifier": "lv_image_auto_generation",
+  "author": "wickedcode01 (ported to Lumiverse)",
+  "github": "https://github.com/wickedcode01/st-image-auto-generation",
+  "homepage": "https://github.com/wickedcode01/st-image-auto-generation",
+  "description": "Automatically generates images when AI messages contain <pic prompt=\"...\"> tags. Ported from SillyTavern.",
+  "permissions": [
+    "interceptor",
+    "chat_mutation",
+    "image_gen"
+  ],
+  "entry_backend": "dist/backend.js",
+  "entry_frontend": "dist/frontend.js"
+}

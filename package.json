@@ -1,0 +1,13 @@
+{
+  "name": "lv-image-auto-generation",
+  "version": "1.0.0",
+  "description": "Lumiverse extension that auto-generates images from AI messages containing <pic> tags",
+  "private": true,
+  "scripts": {
+    "build": "tsc --outDir dist"
+  },
+  "devDependencies": {
+    "lumiverse-spindle-types": "latest",
+    "typescript": "^5.9.3"
+  }
+}
