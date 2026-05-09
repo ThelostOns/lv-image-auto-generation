@@ -22,7 +22,7 @@ A Lumiverse extension that automatically generates images when AI messages conta
 
 1. Go to **Extensions** panel in Lumiverse
 2. Click **Install from GitHub**
-3. Paste this repository URL: `https://github.com/yourusername/lv-image-auto-generation`
+3. Paste this repository URL: `https://github.com/ThelostOns/lv-image-auto-generation`
 4. Grant the requested permissions:
    - **Interceptor** — to inject image generation prompts into the context
    - **Chat Mutation** — to read messages and insert generated images
